@@ -1,0 +1,5 @@
+ --thumb -c --cpu ARM7TDMI -D__EVAL -g -O3 --apcs=interwork 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\Philips 
+-o ".\Obj\getline.o" --omf_browse ".\Obj\getline.crf" --depend ".\Obj\getline.d" "Getline.c"

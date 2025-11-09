@@ -1,0 +1,10 @@
+.\Obj\sd_file.o: SD_File.c
+.\Obj\sd_file.o: C:\Keil\ARM\RV31\INC\RTL.h
+.\Obj\sd_file.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\Obj\sd_file.o: C:\Keil\ARM\ARMCC\bin\..\include\ctype.h
+.\Obj\sd_file.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\Obj\sd_file.o: C:\Keil\ARM\RV31\INC\File_Config.h
+.\Obj\sd_file.o: SD_File.h
+.\Obj\sd_file.o: LCD.h
+.\Obj\sd_file.o: Memory.h
+.\Obj\sd_file.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
